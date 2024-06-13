@@ -138,14 +138,7 @@ int play(const string& username, game2048 resume) {
         while (window.pollEvent(event)) {
             if (event.type == sf::Event::Closed)
                 window.close();
-                      
-
-
-            nguyeenn 
-                s
-
-
-
+            
             bool (game2048:: * resive)();
             if (event.type == sf::Event::KeyPressed) {
                 char ch;
