@@ -79,21 +79,21 @@ File chính: **23120149.cpp** kết hợp với nhiều file header và file cpp
 
   - Người chơi nhập Username vào trò chơi (ký tự chữ, số, ký tự đặc biệt). sẽ có hàm rename để chuẩn hóa username người dùng.
 
-- Hiển thị trò chơi
+- Hiển thị trò chơi: Người chơi sử dụng các phím như đã hướng dẫn ở trên để di chuyển bảng.
   ![game](pictures/gameplay.png)
 
 ## Setting
 
-- Cửa sổ setting
-![setting](pictures/setting.png)
+- Cửa sổ setting: Người chơi nhấp chuột vào lựa chọn.
+  ![setting](pictures/setting.png)
 
 ## Top 20 List
 
-- Cửa sổ top 20 List (mặc định)
-![TList](pictures/TopList.png)
+- Cửa sổ top 20 List (mặc định), nhấn exit để quay về menu.
+  ![TList](pictures/TopList.png)
 
 ## Resume
 
-- Cửa sổ resume
-  ![resume](pictures/resume.png)
+- Cửa sổ resume, nhấn chuột vào tài khoản muốn resume hoặc exit để về menu.
+    ![resume](pictures/resume.png)
 
