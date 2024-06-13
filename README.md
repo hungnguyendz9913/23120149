@@ -82,3 +82,18 @@ File chính: **23120149.cpp** kết hợp với nhiều file header và file cpp
 - Hiển thị trò chơi
   ![game](pictures/gameplay.png)
 
+## Setting
+
+- Cửa sổ setting
+![setting](pictures/setting.png)
+
+## Top 20 List
+
+- Cửa sổ top 20 List (mặc định)
+![TList](pictures/TopList.png)
+
+## Resume
+
+- Cửa sổ resume
+  ![resume](pictures/resume.png)
+
