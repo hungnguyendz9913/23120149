@@ -74,5 +74,6 @@ File chính: **23120149.cpp** kết hợp với nhiều file header và file cpp
 
 ## New game
 
-
+- Lấy username người chơi
+  ![getUsername]()
 
