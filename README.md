@@ -63,3 +63,16 @@ File chính: **23120149.cpp** kết hợp với nhiều file header và file cpp
 
 ## Menu
 
+![Màn hình chính](pictures/menu.png)
+
+- Các chức năng có trên **menu**:
+  - **new game**
+  - **setting**
+  - **Top 20 List**
+  - **Resume**
+- Người chơi **nhấp chuột** trực tiếp vào chức năng để chọn.
+
+## New game
+
+
+
