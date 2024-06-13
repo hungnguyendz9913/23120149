@@ -75,5 +75,10 @@ File chính: **23120149.cpp** kết hợp với nhiều file header và file cpp
 ## New game
 
 - Lấy username người chơi
-  ![getUsername]()
+  ![getUsername](pictures/username.png)
+
+  - Người chơi nhập Username vào trò chơi (ký tự chữ, số, ký tự đặc biệt). sẽ có hàm rename để chuẩn hóa username người dùng.
+
+- Hiển thị trò chơi
+  ![game](pictures/gameplay.png)
 
